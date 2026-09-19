@@ -1,0 +1,5 @@
+{
+  "task_name": "asset-optimizer",
+  "needed_mcp_servers": ["asset"],
+  "needed_local_tools": ["claim_done"]
+}

@@ -1,0 +1,5 @@
+{
+  "task_name": "email-campaign",
+  "needed_mcp_servers": ["email"],
+  "needed_local_tools": ["claim_done"]
+}

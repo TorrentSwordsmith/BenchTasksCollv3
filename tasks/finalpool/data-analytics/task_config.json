@@ -1,0 +1,5 @@
+{
+  "task_name": "data-analytics",
+  "needed_mcp_servers": ["analytics"],
+  "needed_local_tools": ["claim_done"]
+}

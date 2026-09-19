@@ -1,0 +1,5 @@
+{
+  "task_name": "backup-utility",
+  "needed_mcp_servers": ["backup"],
+  "needed_local_tools": ["claim_done"]
+}

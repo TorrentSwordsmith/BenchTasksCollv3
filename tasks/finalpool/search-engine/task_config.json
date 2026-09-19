@@ -1,0 +1,5 @@
+{
+  "task_name": "search-engine",
+  "needed_mcp_servers": ["search"],
+  "needed_local_tools": ["claim_done"]
+}

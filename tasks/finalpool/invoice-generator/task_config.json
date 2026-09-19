@@ -1,0 +1,5 @@
+{
+  "task_name": "invoice-generator",
+  "needed_mcp_servers": ["invoice"],
+  "needed_local_tools": ["claim_done"]
+}

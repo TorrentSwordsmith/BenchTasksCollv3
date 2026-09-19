@@ -1,0 +1,5 @@
+{
+  "task_name": "monitoring-agent",
+  "needed_mcp_servers": ["monitor"],
+  "needed_local_tools": ["claim_done"]
+}

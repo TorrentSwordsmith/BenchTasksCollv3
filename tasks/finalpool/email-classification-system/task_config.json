@@ -1,0 +1,5 @@
+{
+  "task_name": "email-classification-system",
+  "needed_mcp_servers": ["email"],
+  "needed_local_tools": ["claim_done"]
+}

@@ -1,0 +1,5 @@
+{
+  "task_name": "error-tracker",
+  "needed_mcp_servers": ["error"],
+  "needed_local_tools": ["claim_done"]
+}

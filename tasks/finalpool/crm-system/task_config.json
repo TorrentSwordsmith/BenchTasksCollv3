@@ -1,0 +1,5 @@
+{
+  "task_name": "crm-system",
+  "needed_mcp_servers": ["crm"],
+  "needed_local_tools": ["claim_done"]
+}

@@ -1,0 +1,5 @@
+{
+  "task_name": "data-validator",
+  "needed_mcp_servers": ["validator"],
+  "needed_local_tools": ["claim_done"]
+}

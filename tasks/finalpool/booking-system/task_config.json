@@ -1,0 +1,5 @@
+{
+  "task_name": "booking-system",
+  "needed_mcp_servers": ["booking"],
+  "needed_local_tools": ["claim_done"]
+}

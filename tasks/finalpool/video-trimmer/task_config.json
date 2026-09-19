@@ -1,0 +1,5 @@
+{
+  "task_name": "video-trimmer",
+  "needed_mcp_servers": ["video"],
+  "needed_local_tools": ["claim_done"]
+}

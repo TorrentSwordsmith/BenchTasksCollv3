@@ -1,0 +1,5 @@
+{
+  "task_name": "canvas-automation",
+  "needed_mcp_servers": ["canvas"],
+  "needed_local_tools": ["claim_done"]
+}

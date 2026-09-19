@@ -1,0 +1,5 @@
+{
+  "task_name": "blog-engine",
+  "needed_mcp_servers": ["blog"],
+  "needed_local_tools": ["claim_done"]
+}

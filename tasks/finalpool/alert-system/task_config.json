@@ -1,0 +1,5 @@
+{
+  "task_name": "alert-system",
+  "needed_mcp_servers": ["alert"],
+  "needed_local_tools": ["claim_done"]
+}

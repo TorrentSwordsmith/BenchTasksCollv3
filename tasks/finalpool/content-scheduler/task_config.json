@@ -1,0 +1,5 @@
+{
+  "task_name": "content-scheduler",
+  "needed_mcp_servers": ["content"],
+  "needed_local_tools": ["claim_done"]
+}

@@ -1,0 +1,5 @@
+{
+  "task_name": "chat-bot",
+  "needed_mcp_servers": ["chat"],
+  "needed_local_tools": ["claim_done"]
+}

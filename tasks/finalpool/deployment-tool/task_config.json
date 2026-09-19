@@ -1,0 +1,5 @@
+{
+  "task_name": "deployment-tool",
+  "needed_mcp_servers": ["deploy"],
+  "needed_local_tools": ["claim_done"]
+}

@@ -1,0 +1,5 @@
+{
+  "task_name": "deal-manager",
+  "needed_mcp_servers": ["deal"],
+  "needed_local_tools": ["claim_done"]
+}

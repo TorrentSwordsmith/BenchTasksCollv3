@@ -1,0 +1,5 @@
+{
+  "task_name": "expense-tracker",
+  "needed_mcp_servers": ["expense"],
+  "needed_local_tools": ["claim_done"]
+}

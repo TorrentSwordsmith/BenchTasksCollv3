@@ -1,0 +1,5 @@
+{
+  "task_name": "activity-logger",
+  "needed_mcp_servers": ["logger"],
+  "needed_local_tools": ["claim_done"]
+}

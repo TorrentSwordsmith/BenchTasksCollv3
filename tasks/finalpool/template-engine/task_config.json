@@ -1,0 +1,5 @@
+{
+  "task_name": "template-engine",
+  "needed_mcp_servers": ["template"],
+  "needed_local_tools": ["claim_done"]
+}
