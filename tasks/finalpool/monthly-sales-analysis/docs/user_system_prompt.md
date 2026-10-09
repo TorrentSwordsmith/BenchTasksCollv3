@@ -1,0 +1,1 @@
+User system prompt for monthly-sales-analysis
